@@ -22,7 +22,7 @@ Kanban App/
 
 ```bash
 git clone https://github.com/SURAJ-RATHI/Kanban-Task-Manager.git
-cd Kanban-Task-Manager
+cd Kanban-Tasks-Manager
 ```
 
 ## Run 
