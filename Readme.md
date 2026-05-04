@@ -8,7 +8,7 @@ A simple full-stack Kanban app with:
 ## Demo Video
 
 Watch the demo here:  
-https://drive.google.com/file/d/16HCConcZLLSJMwCvCSb5_DsDaV-7LCy4/view?usp=sharing
+https://drive.google.com/file/d/1mO7F4zNuIOzisxkLO8-84DFGOnY68S3n/view?usp=sharing
 
 ## Project Structure
 
